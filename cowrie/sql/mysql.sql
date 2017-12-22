@@ -1,0 +1,1 @@
+../cowrie/doc/sql/mysql.sql
