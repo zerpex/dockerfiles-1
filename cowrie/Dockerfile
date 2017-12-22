@@ -72,6 +72,6 @@ VOLUME /cowrie/log /cowrie/dl /custom
 
 EXPOSE 2222
 
-LABEL maintainer="Wonderfall <wonderfall@targaryen.house>"
+LABEL maintainer="zerpex <zerpex@gmail.com>"
 
 CMD ["run.sh"]
